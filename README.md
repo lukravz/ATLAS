@@ -13,7 +13,7 @@ npm run install:ci
 npm run dev
 ```
 
-Abra http://localhost:5173 e escolha **Acessar demonstração**. Para a apresentação, escolha **Demo → Executar demonstração ATLAS**.
+Abra https://atlas.nuvik.workers.dev e escolha **Acessar demonstração**. Para a apresentação, escolha **Demo → Executar demonstração ATLAS**.
 
 O ciclo parte de 500 L e 37% de umidade, bombeia 1.300 L na janela solar, armazena a água e simula a chegada das 17h para irrigar. Usa 1.100 L, termina com 700 L e 56% de umidade e registra ambas as operações no histórico.
 
